@@ -1,0 +1,16 @@
+# segreti: MAI su GitHub
+.env
+
+# output locali
+*.log
+__pycache__/
+.venv/
+venv/
+*.parquet
+data/
+
+# local data / output
+*.csv
+.DS_Store
+
+pair_config.json
